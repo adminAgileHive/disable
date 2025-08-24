@@ -71,7 +71,9 @@
     --font-1: "judson";
     --font-2: "rubik";
 }
-
+body{
+    width: 100%;
+}
 /* ===================================
    3. Base Styles
    Basic HTML elements and typography
@@ -696,7 +698,7 @@ img {
     background-position: center;
     padding: 32px;
     position: absolute;
-    top: -350px;
+    top: -550px;
 }
 
 .img-sidebar {
